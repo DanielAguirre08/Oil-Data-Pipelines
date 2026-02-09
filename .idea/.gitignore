@@ -1,0 +1,16 @@
+# Archivos de configuración de IntelliJ
+.idea/
+*.iml
+
+# Entornos virtuales de Python
+.venv/
+venv/
+ENV/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Datos (opcional)
+# Si no quieres subir los CSV pesados de Olist en el futuro:
+# data/*.csv
